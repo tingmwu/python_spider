@@ -1,0 +1,30 @@
+App 开发器与 COMSOL Server&trade; ：	http://cn.comsol.com/video/webinar-application-builder-server
+建模流程概述 ：	http://cn.comsol.com/video/intro-to-comsol-multiphysics-modeling-process-tutorial-cn
+创建二维几何 ：	http://cn.comsol.com/video/creating-2d-geometries-in-comsol-multiphysics
+创建三维几何 ：	http://cn.comsol.com/video/3d-geometry-tools-comsol-multiphysics
+导入几何文件 ：	http://cn.comsol.com/video/importing-geometry-files-comsol-multiphysics
+执行几何分割操作 ：	http://cn.comsol.com/video/using-partition-operations-for-geometries-in-comsol-multiphysics
+选择几何实体 ：	http://cn.comsol.com/video/selecting-geometric-entities-comsol-multiphysics
+显示和隐藏几何实体 ：	http://cn.comsol.com/video/showing-hiding-geometric-entities-comsol-multiphysics
+基于二维几何构建三维对象 ：	http://cn.comsol.com/video/how-to-build-3d-objects-from-2d-geometries-in-comsol-multiphysics
+基于三维几何创建二维模型 ：	http://cn.comsol.com/video/creating-2d-models-from-3d-geometries-in-comsol-multiphysics
+网格剖分概述 ：	http://cn.comsol.com/video/meshing-in-comsol-multiphysics-tutorial-cn
+基于导入的网格创建几何 ：	http://cn.comsol.com/video/create-geometry-imported-mesh
+对无限元域的自动网格剖分功能 ：	http://cn.comsol.com/video/automated-meshing-infinite-element-domains
+添加预定义材料 ：	http://cn.comsol.com/video/add-predefined-materials-comsol-multiphysics
+创建新材料 ：	http://cn.comsol.com/video/creating-new-material-comsol-multiphysics
+使用函数定义材料属性 ：	http://cn.comsol.com/video/use-functions-define-material-property
+为多个组件使用同一种材料 ：	http://cn.comsol.com/video/material-multiple-components-comsol-multiphysics
+扫描并比较材料 ：	http://cn.comsol.com/video/sweep-compare-materials-comsol-multiphysics
+使用绘图生成可视化结果 ：	http://cn.comsol.com/video/plots-visualize-results-comsol-multiphysics
+使用图形窗口定制模型可视化 ：	http://cn.comsol.com/video/graphics-window-customize-model-visualizations
+创建并导出动画 ：	http://cn.comsol.com/video/create-export-animations-comsol-multiphysics
+创建并导出模型报告 ：	http://cn.comsol.com/video/creating-exporting-model-reports-comsol-multiphysics
+创建双 Y 轴图形 ：	http://cn.comsol.com/video/creating-a-graph-with-two-y-axes-in-comsol-multiphysics
+对参数化扫描结果进行后处理  ：	http://cn.comsol.com/video/postprocessing-results-parametric-sweep
+基于 COMSOL Multiphysics<sup>&reg;</sup> 模型创建仿真 App ：	http://cn.comsol.com/video/build-simulation-apps-comsol-multiphysics-model
+App 开发器：“录制代码”和“编辑器工具” ：	http://cn.comsol.com/video/comsol-app-builder-tools-record-code-editor-tools
+如何向 App 增加保存选项 ：	http://cn.comsol.com/video/how-add-save-options-comsol-app
+通过子表单保持 App 整齐有序 ：	http://cn.comsol.com/video/subforms-organize-comsol-app
+通过创建方法改进仿真 App ：	http://cn.comsol.com/video/create-methods-improve-simulation-apps
+App 开发器与 COMSOL Server&trade; ：	http://cn.comsol.com/video/webinar-application-builder-server
