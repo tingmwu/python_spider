@@ -5,7 +5,7 @@ import json
 import os
 
 def get_list_url():
-    url = "https://t.kugou.com/4xsLOb6wjV2"
+    url = input("请输入酷狗分享链接：")
     try:
         res = requests.get(url)
         res.raise_for_status()
